@@ -13,17 +13,6 @@ Là một **Chuyên viên Phân tích Dữ liệu** tập trung vào **Business 
 | **Khác** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4A90E2?style=for-the-badge&logo=databricks&logoColor=white) ![Data Operations](https://img.shields.io/badge/Data_Operations-FF5722?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-007ACC?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
 
 ---
-### 📊 Thống kê GitHub của tôi
-
-[![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenHuuVinh1994&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📈 Ngôn ngữ thường dùng
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHuuVinh1994&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ### 📫 Kết nối với tôi
 
 * **Email:** [huuvinh63@gmail.com](mailto:huuvinh63@gmail.com)
